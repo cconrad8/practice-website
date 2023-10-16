@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Data Model Standards
 
-Docusaurus can manage multiple versions of your docs.
+This is an edit
 
 ## Create a docs version
 
