@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Introduction - Basics",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "How to navigate data sharing with Sage Bionetworks."
   }
 }
