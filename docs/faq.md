@@ -20,7 +20,7 @@ sidebar_position: 4
 
 **Q:** Where is my data stored?
 
-**A:** Your data is stored on [Synapse](synapse.org), where you can organize it by specific assays.
+**A:** Your data is stored on [Synapse](https://www.synapse.org/), where you can organize it by specific assays.
 
 ### Data Sharing
 
