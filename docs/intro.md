@@ -8,7 +8,6 @@ sidebar_position: 1
 Watch this quick video for an overview.
 :::
 
-
 <iframe src="https://drive.google.com/file/d/1bp23F9QQyMYaBRA9rfydMP6PXC_G33Iz/preview" width="640" height="480" allow="autoplay"></iframe>
 
 1. **Get a Synapse Account**: Start by creating a Synapse account.

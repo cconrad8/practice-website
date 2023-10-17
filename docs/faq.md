@@ -58,13 +58,13 @@ sidebar_position: 4
 
 **Q:** Is metadata the same as a data model? 
 
-**A:** Metadata is additional standardized information included alongside data to provide context—it's like data about the data. Metadata makes data in the portal searchable, discoverable, accessible, reusable, and understandable to others, even those who were not involved in generating the data. Metadata can be descriptive, administrative (like provenance information), or research-based (like information about the data sampling and handling). For more details, check out the [AD Knowledge Portal Glossary](https://sagebionetworks.jira.com/wiki/spaces/APD/pages/edit-v2/2062254225#Metadata).
+**A:** Metadata is additional standardized information included alongside data to provide context—it's like data about the data. Metadata makes data in the portal searchable, discoverable, accessible, reusable, and understandable to others, even those who were not involved in generating the data. Metadata can be descriptive, administrative (like provenance information), or research-based (like information about the data sampling and handling). For more details, check out the [AD Knowledge Portal Glossary](https://sagebionetworks.jira.com/wiki/spaces/APD/pages/2062254225/Glossary).
 
 ### Submitting Issues Regarding the Data Model
 
 **Q:** How can I submit issues related to the data model?
 
-**A:** For questions, discussions, suggestions, or bug reports related to the data model, it's preferred that members [submit an issue at our source repository](https://github.com/gf-dcc/data-model/issues/new). Note that this requires a GitHub account. If you don't have one, please reach out to one of our DCC staff listed in [Contacts](#contacts).
+**A:** For questions, discussions, suggestions, or bug reports related to the data model, it's preferred that members [submit an issue at our source repository](https://github.com/gf-dcc/data-model/issues/new). Note that this requires a GitHub account.
 
 ### Acronyms
 

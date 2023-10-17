@@ -4,6 +4,10 @@ sidebar_position: 5
 
 # Metadata For Your Data
 
+:::tip Pro Tip
+Watch this quick video for an overview on metadata.
+:::
+
 <iframe src="https://drive.google.com/file/d/1XRdMivnNKOkWAuyqVSDKaNtcEVcRdQq8/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## File-level Metadata
