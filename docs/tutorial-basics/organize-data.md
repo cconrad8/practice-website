@@ -2,21 +2,28 @@
 sidebar_position: 3
 ---
 
-# Organizing Your Data
+## Overview of Data Processing
 
-Project teams may have specialized data workflows based on their funded goals. These workflows can involve:
+### Data Processing by the Project Team
 
-- Generating sequencing data and using various variant calling pipelines.
-- Creating high-resolution images and extracting summary features from them.
+Depending on their funded aims, project teams may have specialized data workflows, which can include:
+
+- Generating sequencing data and deriving data using multiple variant calling pipelines.
+- Producing high-resolution images and extracting summary features from images.
 - Combining different types of data.
 
-During the onboarding process, it's essential to discuss the expected workflow, especially if it's complex or differs from the standard. Project teams should provide information or documentation about their specific workflow.
+During the onboarding process, it is essential to discuss the anticipated workflow, especially if it is complex or deviates from the standard. Project teams should provide information or documentation regarding their workflow.
 
-Data organization aligns with the processing stages. Data is structured in folders based on assay type and its processed category. Each top-level folder and its subfolders must contain data of the same type (see details below).
+## Data organization corresponds to processing stages
 
-The Data Coordination Center (DCC) will create empty top-level folders and subfolders for the anticipated data levels. The structure depends on whether raw or processed data is expected. In some cases, only raw or processed data is anticipated. When only one data level is expected, everything is consolidated into a single folder without subfolders. Subfolders must match the data type and level of the parent folder they're contained in.
+Data is organized by its assay type and, logically, its processed type in folders. 
+Each top-level folder and all of its subfolders must contain data of the same type (see details below).
 
-Example structure:
+The DCC will create empty, common top-level folders as well as subfolders for the expected levels of data. 
+This depends on whether both raw or processed data are expected. 
+Sometimes only raw data or only processed data is expected. 
+If only one level of data is expected, everything is "collapsed" into only one folder and there are no subfolders.
+Subfolders must be of the same data type and level as the root folder they are contained. 
 
 ```plaintext
 └── single_cell_RNA_seq
@@ -36,3 +43,19 @@ Example structure:
     ├── single_cell_RNA_seq_level4
         ├── t-SNE.txt
 ```
+
+
+By understanding the data generation process, the Data Coordination Center (DCC) can effectively collaborate with each team to address the following questions:
+
+- What are the different types of data that will be generated, and how can the data artifacts from this workflow be optimally handled and managed?
+- Are there any recommendations that can be provided to ensure a smooth workflow and avoid potential issues in the downstream analysis?
+- What additional resources can the DCC offer, if available?
+
+### Data Processing by the DCC
+
+In addition to the project team's data processing, the DCC also performs data processing on the uploaded data in Synapse. This processing includes:
+
+- Quality control assessments.
+- File format conversions.
+- Other necessary data transformations to facilitate data loading and sharing in cBioPortal or other analysis applications.
+
