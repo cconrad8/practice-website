@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-## Data Anaylsis
+# Data Analysis
 
 Processed data are made available on some of the most well-known applications.
 This brings data to a bigger stage for collaboration, analysis, and more impactful data sharing. 

@@ -2,25 +2,7 @@
 sidebar_position: 2
 ---
 
-<<<<<<< HEAD
 # Data Sharing Plan
-=======
-## Gray Foundation Data Sharing Plan
-
-## What is a Data Sharing Plan (DSP)?
-
-One important component of a data sharing plan is to outline what datasets will be shared. 
-We have a form that collects information focusing on this component. 
-It is not as extensive as a plan described by [NIH policies](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html), but is nevertheless used for the practical purpose of better data management.
-By having a record of what to expect, the DCC can better plan storage, new application features, governance, and other infrastructure around the incoming data.
-
-**EXAMPLE ONLY**: [generic blank data sharing plan](https://dsp-theta.vercel.app/dsp/preview)
-
-## How to create or update your team DSP
-
-Once onboarded, the team PI/data lead will receive a **special link** to access their specific versions, which will often contain information already on file. 
-The DCC Data Manager will be the one sending the link when updates are needed to the data sharing plan.
->>>>>>> 114ecd4d4cb079e5c7a968aa064275a9bf16c648
 
 ## Phases of Data Sharing
 

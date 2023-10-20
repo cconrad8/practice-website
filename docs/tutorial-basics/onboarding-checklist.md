@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-### Welcome
+# Onboarding Checklist
 
 **👋 We welcome new teams/new staff with an overview that covers the Gray Foundation Data Coordination Center and what setup is needed.** 
    

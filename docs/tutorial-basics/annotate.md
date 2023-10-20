@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-# Metadata For Your Data
+# Applying Metadata to Data
 
 :::tip Pro Tip
 Watch this quick video for an overview on metadata.
