@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Gray Foundation Data Sharing Plan
+# Data Sharing Plan
 
 ## Phases of Data Sharing
 
