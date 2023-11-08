@@ -89,9 +89,18 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Help',
-                to: '/docs/intro',
+                label: 'Onboarding Checklist',
+                to: 'docs/tutorial-basics/onboarding-checklist',
               },
+              {
+                label: 'Data Curator App',
+                href: 'https://dca.app.sagebionetworks.org/',
+              },
+              {
+                label: 'Help with Synapse',
+                href: 'https://help.synapse.org/docs/Getting-Started.2055471150.html',
+              },
+              
             ],
           },
           {
@@ -125,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Sage Bionetworks, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme

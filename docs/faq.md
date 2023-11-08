@@ -4,6 +4,27 @@ sidebar_position: 4
 
 # Frequently Asked Questions
 
+<details open>
+<summary>Data Sharing 📤 </summary>
+
+- [Why Share Data?](#why-share-data)
+- [Data Storage](#data-storage)
+- [Data Sharing](#data-sharing)
+- [About cBioportal](#about-cbioportal)
+- [Using Synapse/Sage Bionetworks Resources](#using-synapse-sage-bionetworks-resources)
+
+</details>
+
+<details>
+<summary> More ⬇️ </summary>
+
+- [Data Models](#data-models)
+- [What is Metadata?](#what-is-metadata)
+- [Submitting Issues Regarding the Data Model](#submitting-issues-regarding-the-data-model)
+- [Acronyms](#acronyms)
+
+</details>
+
 ### Why Share Data?
 
 **Q:** Why is data sharing important?
