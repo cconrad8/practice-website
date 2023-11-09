@@ -15,14 +15,6 @@ sidebar_position: 1
 - Introduce teams to open-science data storage and analysis tools (ie. Synapse and cBioportal)
 - Discuss potential data sharing goals and brain storm data-reusability and analysis opportunities
 - Inform teams of opportunities to join working groups (i.e. the analysis working group) and collaborate with other Gray Foundation researchers
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
    
 #### For Principal Investigators: 
 - [ ] Designate at least one data lead contact for team. (_There may be multiple data lead(s) because there are multiple individuals responsible for different data types._)

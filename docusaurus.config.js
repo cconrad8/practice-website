@@ -136,10 +136,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
       },
-      themes: ['@docusaurus/theme-mermaid'],
-      markdown: {
-        mermaid: true,
-      },
     }),
 };
 
