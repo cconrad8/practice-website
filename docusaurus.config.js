@@ -41,13 +41,11 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +72,7 @@ const config = {
             position: 'left',
             label: 'Help',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/gf-dcc',
             label: 'GitHub',
@@ -100,7 +98,6 @@ const config = {
                 label: 'Help with Synapse',
                 href: 'https://help.synapse.org/docs/Getting-Started.2055471150.html',
               },
-              
             ],
           },
           {
@@ -137,11 +134,13 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Sage Bionetworks, Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme
+        theme: lightCodeTheme,
+      },
+      themes: ['@docusaurus/theme-mermaid'],
+      markdown: {
+        mermaid: true,
       },
     }),
 };
 
 module.exports = config;
-
-
