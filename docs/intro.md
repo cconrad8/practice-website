@@ -4,11 +4,10 @@ sidebar_position: 1
 
 # Overview
 
-:::tip 
-Watch this video for an overview of the data sharing process. 
-:::
-
-<iframe src="https://drive.google.com/file/d/1bp23F9QQyMYaBRA9rfydMP6PXC_G33Iz/preview" width="640" height="480" allow="autoplay"></iframe>
+<details>
+  <summary>Watch this video for an overview of the data sharing process. </summary>
+<video src="Getting-Started.mp4" controls title="Getting Started"></video>
+</details>
 
 1. **Create a Synapse Account**: Synapse is the platform used to store and download data. Start by creating a Synapse account [here](https://www.synapse.org/#!RegisterAccount:0). You will also need to complete a [certification quiz](https://www.synapse.org/#!Quiz:Certification) if you plan to upload data. 
 
