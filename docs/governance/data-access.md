@@ -49,7 +49,4 @@ Phase 3 datasets often consist of data released concurrently with or after publi
 
 </details>
 
-
-### See Also
-
-For specific information regarding Synapse governance, please visit https://help.synapse.org/docs/Synapse-Governance.2004255211.html.
+_For more information regarding Synapse governance, please visit [Synapse Help](https://help.synapse.org/docs/Synapse-Governance.2004255211.html)_

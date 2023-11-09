@@ -2,19 +2,7 @@
 sidebar_position: 5
 ---
 
-# Data Processing
-
-### Data Processing by the Project Team
-
-Depending on their funded aims, project teams may have specialized data workflows, which can include:
-
-- Generating sequencing data and deriving data using multiple variant calling pipelines.
-- Producing high-resolution images and extracting summary features from images.
-- Combining different types of data.
-
-During the onboarding process, it is essential to discuss the anticipated workflow, especially if it is complex or deviates from the standard. Project teams should provide information or documentation regarding their workflow.
-
-## Data organization corresponds to processing stages
+# Data Organization
 
 Data is organized by its assay type and, logically, its processed type in folders. 
 Each top-level folder and all of its subfolders must contain data of the same type (see details below).
@@ -44,12 +32,21 @@ Subfolders must be of the same data type and level as the root folder they are c
         ├── t-SNE.txt
 ```
 
-
 By understanding the data generation process, the Data Coordination Center (DCC) can effectively collaborate with each team to address the following questions:
 
 - What are the different types of data that will be generated, and how can the data artifacts from this workflow be optimally handled and managed?
 - Are there any recommendations that can be provided to ensure a smooth workflow and avoid potential issues in the downstream analysis?
 - What additional resources can the DCC offer, if available?
+
+### Data Processing by the Project Team
+
+Depending on their funded aims, project teams may have specialized data workflows, which can include:
+
+- Generating sequencing data and deriving data using multiple variant calling pipelines.
+- Producing high-resolution images and extracting summary features from images.
+- Combining different types of data.
+
+During the onboarding process, it is essential to discuss the anticipated workflow, especially if it is complex or deviates from the standard. Project teams should provide information or documentation regarding their workflow.
 
 ### Data Processing by the DCC
 
