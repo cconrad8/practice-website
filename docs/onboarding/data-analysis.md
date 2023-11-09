@@ -13,6 +13,8 @@ However, not all data may be available for analysis -- whether data is "elevated
 
 Below, we provide more details on analysis apps and which data types are targeted for them. 
 
+<center>
+
 | Data Type                             | Analysis App      |
 | ------------------------------------ | ----------------- |
 | Copy Number Variation (CNV)          | cbioportal        |
@@ -21,7 +23,10 @@ Below, we provide more details on analysis apps and which data types are targete
 | Single Cell RNA Sequencing Data      | CellXGene         |
 | CyCIF Imaging Data                    | Minerva Viewer    |
 
+</center>
 
-The [cBioPortal](https://docs.cbioportal.org/) for Cancer Genomics was originally developed at Memorial Sloan Kettering Cancer Center (MSK) for sharing genomic data. We provide a custom instance for the Gray Foundation. 
+#### External Viewers
 
-[CELLxGENE](https://github.com/chanzuckerberg/cellxgene) ("cell-by-gene") is an interactive data explorer specifically designed for analyzing single-cell datasets. 
+- [cBioPortal](https://docs.cbioportal.org/) for Cancer Genomics was originally developed at Memorial Sloan Kettering Cancer Center (MSK) for sharing genomic data. We provide a custom instance for the Gray Foundation. 
+
+- [CELLxGENE](https://github.com/chanzuckerberg/cellxgene) ("cell-by-gene") is an interactive data explorer specifically designed for analyzing single-cell datasets. 

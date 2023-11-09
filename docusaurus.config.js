@@ -2,8 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const { themes } = require('prism-react-renderer');
-const lightTheme = themes.github;
-const darkTheme = themes.dracula;
+const lightCodeTheme = themes.github;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -140,6 +139,10 @@ const config = {
 
       },
     }),
+    themes: ['@docusaurus/theme-mermaid'],
+    markdown: {
+      mermaid: true,  
+    },
 };
 
 module.exports = config;

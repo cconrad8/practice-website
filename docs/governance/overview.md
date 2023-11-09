@@ -16,13 +16,16 @@ Data sharing occurs in three distinct phases:
 
 <details>
 <summary> Private Phase </summary>
+
 During this phase, data is exclusively accessible to the Contributor and individuals designated by the Contributor. This configuration serves as the default setting unless specified otherwise by the grant. For instance, certain pilot projects may start directly in the Collaborative Sharing Phase.
 
 </details>
 
 <details>
 <summary> Collaborative Sharing Phase </summary>
+
 In the Collaborative Sharing Phase, curated data becomes accessible to investigators within the network.
+
 </details>
 
 <details>
