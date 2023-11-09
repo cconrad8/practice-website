@@ -90,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'Onboarding Checklist',
-                to: 'docs/tutorial-basics/onboarding-checklist',
+                to: 'docs/onboarding/onboarding-checklist',
               },
               {
                 label: 'Data Curator App',
