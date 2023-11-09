@@ -1,22 +1,23 @@
 ---
 sidebar_position: 2
 ---
-
-# Governance
-
 # Data Access
 
 The data access for Gray Foundation aligns with the general data access types described for the Synapse platform. You can find more details about these access types [here](https://help.synapse.org/docs/Data-Access-Types.2014904611.html).
 
 ## Data Access Tags in the Portal
 
-### Phase 1 Datasets
+<details>
+<summary> Phase 1 Datasets </summary>
 
 ##### "PRIVATE"
 
 Phase 1 datasets will most likely not be visible in the portal. If they do appear, the pink "PRIVATE" tag will indicate that the data exists on Synapse but is still undergoing compilation/analysis. At the moment, there is no intention to share this data, so please refrain from contacting the team regarding its availability.
 
-### Phase 2 Datasets
+</details>
+
+<details>
+<summary> Phase 2 Datasets </summary>
 
 ##### "COLLABORATIVE ONLY"
 
@@ -25,7 +26,10 @@ Phase 2 datasets may be visible in the portal but will be labeled as "COLLABORAT
 - Admins (PIs and Data Leads) for the team's repository can grant view or download access by adding individuals or teams to the folder or project. This allows data to be shared for collaboration without moving it to Phase 3.
 - In conversation, this data may also be referred to as being "under embargo".
 
-### Phase 3 Datasets
+</details>
+
+<details>
+<summary> Phase 3 Datasets </summary>
 
 Phase 3 datasets often consist of data released concurrently with or after publication, although certain access conditions may still apply. Within Phase 3, data is classified into several access categories:
 
@@ -42,6 +46,9 @@ Phase 3 datasets often consist of data released concurrently with or after publi
 ##### "OPEN"
 - Anyone on the web can view and download this data without requiring an account.
 - This usually applies to metadata.
+
+</details>
+
 
 ### See Also
 
