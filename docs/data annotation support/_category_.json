@@ -1,0 +1,9 @@
+{
+  "label": "Data Annotation Support",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

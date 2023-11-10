@@ -8,11 +8,7 @@ sidebar_position: 6
 After uploading data, contributors can find those files on our [Data Curator App](https://dca.app.sagebionetworks.org/), which is used to help annotate the data. Select **Gray Foundation**, your project name, and the folder of files you want to annotate. Then select a metadata template.
 Click download template and go through the steps of populating the template. Export the template as a .csv and reupload it to the data curator app and validate. After it passes validation, you may submit it and your annotations will now appear on Synapse with your data. 
 
-<details>
-<summary> Watch this quick video to become familiar on metadata.</summary>
-
-<iframe src="https://drive.google.com/file/d/1XRdMivnNKOkWAuyqVSDKaNtcEVcRdQq8/preview" width="640" height="480" allow="autoplay"></iframe>
-</details>
+[Watch this quick video to become familiar on metadata](https://www.canva.com/design/DAFuV7s50ck/sKjd9PIPfBNlbHbTlGC15A/watch?utm_content=DAFuV7s50ck&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 We offer a variety of metadata templates tailored to different data types and assays. 
 

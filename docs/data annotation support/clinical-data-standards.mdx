@@ -1,0 +1,37 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Creating a Clinical Metadata Template for BRCA Pre-Cancer Research
+
+<div className="unique-tabs">
+  <Tabs>
+    <TabItem value="Clinical Data Standards">
+      The development of a clinical metadata template is central to the BRCA pre-cancer research initiative, aiming to harmonize and streamline the collection of crucial information related to human patients and biospecimens, such as blood and tissue samples. This template addresses key inquiries:
+      * How can we establish a standardized approach to represent and model patient and sample data consistently across a diverse array of project teams operating in multiple institutions?
+      * What data elements can be pragmatically collected and standardized across each project team while aligning with the overarching goals of the research consortium?
+      * Which clinical phenotypes are of significant value for conducting more in-depth and insightful analyses specific to BRCA pre-cancer research?
+    </TabItem>
+    <TabItem value="Request for Comments Process">
+      The minimal clinical data model was meticulously crafted through a collaborative Request for Comments (RFC) process. For detailed insights, you can review the RFC engineering process [here](https://coda.io/d/RFC-1-MCDM_dxVlTrpKblb/RFC-1-Minimal-Clinical-Data-Model_suv9y#_lu9Ei). This process provides essential context for defining what constitutes "minimal" data and why certain elements are of interest to various stakeholders. The templates featured in the following section closely align with the outcomes of this collaborative effort. Nevertheless, the potential exists for developing a more extensive and comprehensive clinical data model based on the decisions of the consortium members and the recommendations of Program Directors.
+    </TabItem>
+    <TabItem value="Agreed upon Terms">
+| Demographic Information | Health Status | Genetic Information | Lifestyle and Habits | Study-Related Information |
+| ----------------------- | ------------- | ------------------- | ------------------- | ------------------------- |
+| ParticipantID           | VitalStatus   | ClassBRCA1         | TobaccoUse          | Component                |
+| Age                    | Height        | ClassBRCA2         | PackYearsSmoked     | TimepointLabel           |
+| Sex                    | Weight        |                   | AlcoholUse          | SampleCollectionCenter   |
+| BMI                    | Gravidity     |                   | NumberofDrinksPerWeek | SampleCollectionYear     |
+| Race                   | Parity        |                   | AntibioticUse        |                         |
+| Ethnicity               | AgeAtMenarche |                   |                     |                         |
+|                        | MenstrualCyclePhase |                 |                     |                         |
+|                        | MenopauseStatus    |                 |                     |                         |
+|                        | PrimaryDiagnosis   |                 |                     |                         |
+|                        | AgeatDiagnosis     |                 |                     |                         |
+|                        | DiagnosisStatusType |                |                     |                         |
+|                        | ERStatus           |                 |                     |                         |
+|                        | PRStatus           |                 |                     |                         |
+|                        | HER2Status         |                 |                     |                         |
+
+    </TabItem>
+  </Tabs>
+</div>
